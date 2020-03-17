@@ -15,6 +15,7 @@ HTML_HEAD = '''<!DOCTYPE html>
 <html>
 	<head>
 	<meta charset="utf-8" />
+	<link rel="icon" href="https://raw.githubusercontent.com/MCEINS/pic/kindleicon/favicon.ico" type="image/x-icon"/>
 	<title> Kindle 读书笔记 </title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link href="../style/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
